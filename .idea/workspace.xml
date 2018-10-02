@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c964147-2089-48a1-9966-d2d4564263c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pyblog/templates/account.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyblog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyblog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyblog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyblog/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/routes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyblog/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/site.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyblog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyblog/templates/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/templates/account.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,15 +26,15 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="11" />
-          <entry key="py" value="13" />
+          <entry key="html" value="12" />
+          <entry key="py" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="11" />
-          <entry key="Python" value="10" />
+          <entry key="HTML" value="12" />
+          <entry key="Python" value="12" />
           <entry key="Scratch" value="3" />
         </counts>
       </usages-collector>
@@ -46,15 +42,15 @@
         <counts>
           <entry key="Python Console" value="1248" />
           <entry key="dummy" value="9" />
-          <entry key="html" value="1766" />
-          <entry key="py" value="4016" />
+          <entry key="html" value="2032" />
+          <entry key="py" value="5019" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1766" />
+          <entry key="HTML" value="2032" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="5133" />
+          <entry key="Python" value="6136" />
           <entry key="Scratch" value="131" />
         </counts>
       </usages-collector>
@@ -63,12 +59,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.py">
+        <entry file="file://$PROJECT_DIR$/pyblog/templates/account.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="390">
+              <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyblog/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="34" column="91" selection-start-line="34" selection-start-column="91" selection-end-line="34" selection-end-column="91" />
               <folding>
-                <marker date="1538500456322" expanded="true" signature="460:487" ph="..." />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,21 +82,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pyblog/routes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="60" column="66" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+            <state relative-caret-position="285">
+              <caret line="83" column="21" lean-forward="true" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
               <folding>
-                <element signature="e#0#68#0" expanded="true" />
-                <marker date="1538505881195" expanded="true" signature="2207:2379" ph="..." />
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1538516144036" expanded="true" signature="2273:3535" ph="..." />
+                <marker date="1538516144036" expanded="true" signature="2361:2712" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyblog/templates/account.html">
+        <entry file="file://$PROJECT_DIR$/pyblog/templates/register.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="69" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -126,31 +132,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyblog/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-                <marker date="1538503437036" expanded="true" signature="152:194" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyblog/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -180,11 +161,11 @@
         <option value="$PROJECT_DIR$/models.py" />
         <option value="$PROJECT_DIR$/pyblog.py" />
         <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/pyblog/forms.py" />
         <option value="$PROJECT_DIR$/pyblog/models.py" />
-        <option value="$PROJECT_DIR$/pyblog/templates/account.html" />
         <option value="$PROJECT_DIR$/pyblog/templates/layout.html" />
         <option value="$PROJECT_DIR$/pyblog/__init__.py" />
+        <option value="$PROJECT_DIR$/pyblog/forms.py" />
+        <option value="$PROJECT_DIR$/pyblog/templates/account.html" />
         <option value="$PROJECT_DIR$/pyblog/routes.py" />
       </list>
     </option>
@@ -218,6 +199,12 @@
               <item name="my_python_blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="my_python_blog" type="462c0819:PsiDirectoryNode" />
               <item name="pyblog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_python_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_python_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="pyblog" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -240,6 +227,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pyblog/static/profile_pics" />
+      <recent name="$PROJECT_DIR$/pyblog/static" />
       <recent name="$PROJECT_DIR$/pyblog" />
     </key>
   </component>
@@ -324,7 +313,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1064" y="0" width="856" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.28982037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -337,7 +325,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32970297" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49882075" visible="true" weight="0.3148515" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49882075" visible="true" weight="0.3148515" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5011792" side_tool="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49882075" weight="0.32871288" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -420,33 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyblog/templates/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <marker date="1538500456322" expanded="true" signature="460:487" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyblog/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pyblog/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -462,13 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyblog/templates/account.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -489,13 +443,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <marker date="1538500456322" expanded="true" signature="460:487" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyblog/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="69" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyblog/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="34" column="91" selection-start-line="34" selection-start-column="91" selection-end-line="34" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyblog/templates/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pyblog/routes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="60" column="66" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+        <state relative-caret-position="285">
+          <caret line="83" column="21" lean-forward="true" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
           <folding>
-            <element signature="e#0#68#0" expanded="true" />
-            <marker date="1538505881195" expanded="true" signature="2207:2379" ph="..." />
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1538516144036" expanded="true" signature="2273:3535" ph="..." />
+            <marker date="1538516144036" expanded="true" signature="2361:2712" ph="..." />
           </folding>
         </state>
       </provider>
